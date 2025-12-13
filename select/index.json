@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "a.m.3:21",
+  "base_artist": "yama",
+  "createdAt": "2025-12-13T14:48:38.323436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "a.m.3:21",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/01_a.m.3_21_yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "a.m.3:21",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/02_a.m.3_21_yama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "yama - a.m.3:21 (Official Video)",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/03_yama_-_a.m.3_21_(Official_Video)_yama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "yama - a.m.3:21 (Official Video)",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/04_yama_-_a.m.3_21_(Official_Video)_yama.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "a.m.3:21 - From THE FIRST TAKE",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/05_a.m.3_21_-_From_THE_FIRST_TAKE_yama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "a.m.3:21 – From THE FIRST TAKE",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/06_a.m.3_21_–_From_THE_FIRST_TAKE_yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "a.m.3:21",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_a.m.3_21_yama.txt"
+    }
+  ]
+}
